@@ -16,4 +16,4 @@ Click the tab and group dropdowns until you find the group you want to place the
 
 Select Macros from the dropdown on the left
 
-Select the "Fill_in_the_blanks" macro and select add to add the adin to the group you selected.
+Select the "Fill_in_the_blanks" macro and select add to add the addin to the group you selected.
