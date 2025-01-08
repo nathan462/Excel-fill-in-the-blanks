@@ -3,7 +3,7 @@ Fill in blank cells with data from above
 
 This addin fills in blank cells from the current selection with data from the cell above using "cel.Value = "=" & column_letter & cel.Row - 1" to provide the value of the cell above. Just highlight the range that you need filled in and click the button to fill the data.
 
-It looks for cells that are truley empty with the IsEmpty function and cells that are effectivly empty (contain only whitespace) by using Len(Trim(cel.Value)) = 0
+It looks for cells that are truly empty with the IsEmpty function and cells that are effectivly empty (contain only whitespace) by using Len(Trim(cel.Value)) = 0
 
 Installation:
 The addin should be placed in C:\$user\\AppData\Roaming\Microsoft\AddIns
